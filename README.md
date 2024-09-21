@@ -19,15 +19,6 @@ This is a News App built using Jetpack Compose, Kotlin, Hilt, Retrofit, Coroutin
 * **Navigation:** Uses Navigation for smooth transitions between screens.
 * **WebView:** Uses WebView for a seamless reading experience.
 
-**Dependencies**
-
-* **Jetpack Compose:** Modern UI toolkit for building native Android UIs.
-* **Coil:** Efficiently loads and caches images.
-* **Retrofit:** A type-safe HTTP client for smooth network requests.
-* **Dagger Hilt:** Simplifies dependency injection.
-* **Room:** A SQLite object mapping library for local data storage.
-* **Paging Compose:** Simplifies the implementation of paginated lists.
-* **Mockito, JUnit, Turbine:** Ensures the reliability of the application.
 
 **How to Use**
 
