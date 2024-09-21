@@ -34,6 +34,9 @@ This is a News App built using Jetpack Compose, Kotlin, Hilt, Retrofit, Coroutin
 1. Clone the repository.
 2. Open the project in Android Studio.
 3. Run the app.
+![1newsapp](https://github.com/user-attachments/assets/c19c9e6c-a763-4b04-a98b-78f23f8aac97)
+![2newsapp](https://github.com/user-attachments/assets/37d6acd6-49d6-4c62-b8a7-37e6422ddb70)
+![3newsapp](https://github.com/user-attachments/assets/bead5c1f-8d96-4e85-9700-c10aea109c2e)
 
 I hope you find this app useful!
 
